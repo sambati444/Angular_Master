@@ -1,0 +1,10 @@
+1. How to get input values into typescript?
+	use #wanted name and send as wantedname.value tag in html and retreive as normal parameter in type script
+	link:
+	http://www.syntaxsuccess.com/viewarticle/angular-2.0-input-values-and-binding
+2. How to handle JQuery in Typescript?
+
+3. Multiple modules how to handle?
+
+4. 
+ 
